@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vladelena
+- 👋 Hi, I’m @VESpaceStudios
 - 👀 I’m interested in C#, Python, Arduino, game development with UE5
 - 🌱 I’m currently learning Python and UE5
 - 💞️ I’m looking to collaborate on game development
